@@ -4,3 +4,4 @@ data/viz_results/
 *.npy
 
 src/__pycache__/
+.ipynb_checkpoints
