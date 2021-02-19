@@ -1,4 +1,6 @@
-.idea
+
 data/frames/
 data/viz_results/
 *.npy
+
+src/__pycache__/

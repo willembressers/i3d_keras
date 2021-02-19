@@ -19,7 +19,7 @@ def show_flow(video_path_npy):
     for i in range(0, nb_frames):
         flow_extra_1st_img = flow_extra[i, :, :, :]
         cv2.imshow('img_flow', flow_extra_1st_img)
-        cv2.waitKey(0)
+        cv2.waitKey(1)
 
 
 # From the RGB data, we added 1 and then divided by 2 to rescale between 0 and 1
@@ -32,7 +32,7 @@ def show_rgb(video_path_npy):
     for i in range(0, nb_frames):
         rgb_1st_img = rgb[i, :, :, :]
         cv2.imshow('img_flow', rgb_1st_img)
-        cv2.waitKey(0)
+        cv2.waitKey(1)
 
 
 def save_rgb_video(video_path_npy, path_output):
