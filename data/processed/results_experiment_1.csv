@@ -1,0 +1,131 @@
+,video_name,class_name,y_pred,confidence
+0,g24_c01,Diving,springboard diving,0.9536037445068359
+1,g23_c04,Diving,springboard diving,0.9998763203620911
+2,g23_c02,Diving,springboard diving,0.9989954233169556
+3,g22_c04,Diving,springboard diving,0.8048632740974426
+4,g21_c04,Diving,springboard diving,0.6337521076202393
+5,g23_c05,Diving,springboard diving,0.9970653653144836
+6,g22_c06,Diving,springboard diving,0.9789730310440063
+7,g21_c06,Diving,springboard diving,0.925900936126709
+8,g22_c02,Diving,springboard diving,0.8160592913627625
+9,g24_c06,Diving,springboard diving,0.9056323170661926
+10,g24_c04,Diving,dunking basketball,0.9990845322608948
+11,g21_c02,Diving,springboard diving,0.9993517398834229
+12,g25_c01,Diving,springboard diving,0.9179412722587585
+13,g22_c01,Diving,springboard diving,0.9999780654907227
+14,g24_c03,Diving,springboard diving,0.81792813539505
+15,g21_c01,Diving,springboard diving,0.997609555721283
+16,g21_c07,Diving,springboard diving,0.8695427179336548
+17,g25_c04,Diving,springboard diving,0.9235814213752747
+18,g23_c03,Diving,somersaulting,0.9675696492195129
+19,g21_c05,Diving,faceplanting,0.7647297978401184
+20,g24_c07,Diving,springboard diving,0.9897947907447815
+21,g23_c01,Diving,somersaulting,0.6367319822311401
+22,g21_c03,Diving,springboard diving,0.9891003370285034
+23,g22_c03,Diving,springboard diving,0.9938760995864868
+24,g25_c02,Diving,springboard diving,0.8392615914344788
+25,g25_c03,Diving,springboard diving,0.9860134720802307
+26,g24_c02,Diving,springboard diving,0.9658946394920349
+27,g24_c05,Diving,springboard diving,0.8207148313522339
+28,g23_c06,Diving,springboard diving,0.880754828453064
+29,g22_c05,Diving,springboard diving,0.973147988319397
+30,g24_c01,HulaHoop,hula hooping,1.0
+31,g23_c04,HulaHoop,hula hooping,1.0
+32,g23_c02,HulaHoop,hula hooping,1.0
+33,g22_c04,HulaHoop,hula hooping,1.0
+34,g21_c04,HulaHoop,hula hooping,1.0
+35,g23_c05,HulaHoop,hula hooping,1.0
+36,g22_c02,HulaHoop,hula hooping,1.0
+37,g24_c04,HulaHoop,hula hooping,1.0
+38,g21_c02,HulaHoop,hula hooping,1.0
+39,g25_c01,HulaHoop,hula hooping,1.0
+40,g22_c01,HulaHoop,hula hooping,1.0
+41,g24_c03,HulaHoop,hula hooping,1.0
+42,g21_c01,HulaHoop,hula hooping,1.0
+43,g25_c04,HulaHoop,hula hooping,1.0
+44,g23_c03,HulaHoop,hula hooping,1.0
+45,g23_c01,HulaHoop,hula hooping,1.0
+46,g25_c05,HulaHoop,hula hooping,1.0
+47,g21_c03,HulaHoop,hula hooping,1.0
+48,g22_c03,HulaHoop,hula hooping,1.0
+49,g25_c02,HulaHoop,hula hooping,1.0
+50,g25_c03,HulaHoop,hula hooping,1.0
+51,g24_c02,HulaHoop,hula hooping,1.0
+52,g23_c06,HulaHoop,hula hooping,1.0
+53,g22_c05,HulaHoop,hula hooping,1.0
+54,g24_c01,PlayingPiano,playing piano,0.9348317384719849
+55,g23_c04,PlayingPiano,playing organ,0.7759839296340942
+56,g23_c02,PlayingPiano,playing piano,0.9979916214942932
+57,g22_c04,PlayingPiano,playing piano,0.999858021736145
+58,g21_c04,PlayingPiano,playing piano,0.9379779696464539
+59,g22_c02,PlayingPiano,playing piano,0.9885433912277222
+60,g24_c04,PlayingPiano,playing piano,0.9986019730567932
+61,g21_c02,PlayingPiano,playing chess,0.3363679349422455
+62,g25_c01,PlayingPiano,playing organ,0.6988276243209839
+63,g22_c01,PlayingPiano,playing piano,0.9911972880363464
+64,g24_c03,PlayingPiano,playing piano,0.975601851940155
+65,g21_c01,PlayingPiano,playing organ,0.5991831421852112
+66,g25_c04,PlayingPiano,playing piano,0.5928494334220886
+67,g23_c03,PlayingPiano,playing piano,0.9995708465576172
+68,g23_c01,PlayingPiano,playing piano,0.9999753832817078
+69,g21_c03,PlayingPiano,playing piano,0.583075225353241
+70,g22_c03,PlayingPiano,playing piano,0.9999979734420776
+71,g25_c02,PlayingPiano,playing piano,0.545788586139679
+72,g25_c03,PlayingPiano,playing organ,0.5841188430786133
+73,g24_c02,PlayingPiano,playing piano,0.9905149936676025
+74,g24_c01,Biking,riding a bike,0.9230074882507324
+75,g23_c04,Biking,riding a bike,0.9266840219497681
+76,g23_c02,Biking,riding a bike,0.9923326373100281
+77,g22_c04,Biking,riding mountain bike,0.6476063132286072
+78,g21_c04,Biking,riding a bike,0.9066967964172363
+79,g21_c12,Biking,riding a bike,0.8792237639427185
+80,g21_c08,Biking,riding a bike,0.8876559138298035
+81,g21_c06,Biking,riding mountain bike,0.996424674987793
+82,g22_c02,Biking,riding a bike,0.7223560810089111
+83,g24_c08,Biking,riding a bike,0.7194842100143433
+84,g24_c06,Biking,riding unicycle,0.9776226878166199
+85,g24_c04,Biking,riding a bike,0.9980676174163818
+86,g21_c02,Biking,riding a bike,0.5603554248809814
+87,g25_c01,Biking,riding a bike,0.9990735054016113
+88,g22_c01,Biking,riding a bike,0.9999939203262329
+89,g24_c03,Biking,biking through snow,0.722652792930603
+90,g21_c01,Biking,riding a bike,0.8348525166511536
+91,g21_c07,Biking,riding a bike,0.8784968852996826
+92,g21_c09,Biking,riding mountain bike,0.9542155265808105
+93,g25_c04,Biking,riding unicycle,0.999974250793457
+94,g23_c03,Biking,riding a bike,0.9970141053199768
+95,g21_c05,Biking,riding mountain bike,0.5981706380844116
+96,g24_c07,Biking,biking through snow,0.719774603843689
+97,g21_c10,Biking,riding mountain bike,0.6584829092025757
+98,g21_c11,Biking,riding mountain bike,0.78411465883255
+99,g23_c01,Biking,riding a bike,0.9999767541885376
+100,g21_c03,Biking,riding a bike,0.8867958784103394
+101,g22_c03,Biking,riding a bike,0.47596290707588196
+102,g25_c02,Biking,riding a bike,0.7251541614532471
+103,g25_c03,Biking,riding a bike,0.9829888343811035
+104,g24_c02,Biking,riding a bike,0.9445092678070068
+105,g24_c05,Biking,riding a bike,0.590614914894104
+106,g22_c05,Biking,riding a bike,0.7475409507751465
+107,g24_c01,SalsaSpin,salsa dancing,0.9999884963035583
+108,g23_c04,SalsaSpin,salsa dancing,0.9999942779541016
+109,g23_c02,SalsaSpin,salsa dancing,0.9998401403427124
+110,g22_c04,SalsaSpin,salsa dancing,0.8622351288795471
+111,g21_c04,SalsaSpin,salsa dancing,0.9998494982719421
+112,g22_c02,SalsaSpin,salsa dancing,0.9761736392974854
+113,g24_c04,SalsaSpin,salsa dancing,0.9998047351837158
+114,g21_c02,SalsaSpin,salsa dancing,0.9997238516807556
+115,g25_c01,SalsaSpin,salsa dancing,0.9999893307685852
+116,g22_c01,SalsaSpin,salsa dancing,0.9988808631896973
+117,g24_c03,SalsaSpin,salsa dancing,0.9999564290046692
+118,g21_c01,SalsaSpin,salsa dancing,0.9999920129776001
+119,g25_c04,SalsaSpin,salsa dancing,0.9989097118377686
+120,g23_c03,SalsaSpin,salsa dancing,0.9999707937240601
+121,g21_c05,SalsaSpin,salsa dancing,0.9998839497566223
+122,g23_c01,SalsaSpin,salsa dancing,0.9999874234199524
+123,g21_c03,SalsaSpin,salsa dancing,0.9998035430908203
+124,g22_c03,SalsaSpin,salsa dancing,0.9744352698326111
+125,g25_c02,SalsaSpin,salsa dancing,0.6979056000709534
+126,g25_c03,SalsaSpin,salsa dancing,0.999886691570282
+127,g24_c02,SalsaSpin,salsa dancing,0.9999599456787109
+128,g24_c05,SalsaSpin,salsa dancing,0.9999942779541016
+129,g22_c05,SalsaSpin,salsa dancing,0.9965618848800659
